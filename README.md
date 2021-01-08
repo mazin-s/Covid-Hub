@@ -13,4 +13,5 @@ The Home tab explains the purpose of the website. It also consists of a chat wit
 - Firebase to store data submitted in the Relief Form Page
 - JQuery to make the bot
 
+Please Note: This isn't the original REPO. We had to reclone and reupload due to security concerns with our API keys.
 
